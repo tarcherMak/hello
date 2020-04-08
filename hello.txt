@@ -2,4 +2,6 @@
 why原因
 what对象
 where地点
-
+when时间
+who人
+how方法
